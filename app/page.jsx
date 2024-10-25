@@ -14,7 +14,7 @@ const Home = () => {
           <h1 className="h1 mb-6">
             Hello I'm <br /> <span className="text-accent">Gopal Basak</span>
           </h1>
-          <p className="max-w-[500px] mb-9 text-white/80">🌟 I'm a dedicated frontend React developer who loves turning complex problems into user-friendly solutions. My journey in tech has allowed me to master a range of tools, from JavaScript and ES6 to Node JS and MongoDB.</p>
+          <p className="max-w-[500px] mb-9 text-white/80">Passionate Frontend Developer | Expert in React, JavaScript | Always Learning New Tech.</p>
         {/* button */}
           <div className="flex flex-col xl:flex-row items-center gap-8">
             <Button variant="outline" size="lg" className="uppercase flex items-center gap-2">
